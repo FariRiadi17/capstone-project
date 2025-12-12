@@ -1,8 +1,3 @@
-# =================================================================
-# TAHAP 3.2: STREAMLIT DEPLOYMENT APP
-# File: streamlit_app.py
-# =================================================================
-
 import streamlit as st
 import pandas as pd
 import numpy as np
